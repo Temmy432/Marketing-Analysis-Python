@@ -33,11 +33,57 @@ Various visualizations were created to analyze the campaign data effectively:
 - A **bar chart** was also used to depict **total orders by category**, offering a clear breakdown of order distribution across different categories.  
 - A **line chart** was employed to illustrate **total revenue by date**, providing insights into revenue trends over time.  
 
-## Observations  
+
+
+
+
+ 
+ ![](images/Screenshot%202025-01-25%20175422.png)
+ 
+ Observations  
 - **The "Banner_Partner" campaign generated significantly more impressions** compared to other campaigns, indicating that it had the highest reach and visibility. This suggests that banner ads were effective in gaining audience exposure.  
+
+
+
+
+
+
+
+
+
+Observations 
 - **"Banner_Partner" and "Facebook_tier2" had the highest marketing spend**, suggesting they were prioritized in the overall strategy.  
+
+
+
+
+
+
+
+
+Observations 
 - The **"Influencer" and "Social" categories generated the highest total orders**, while the **"Search" category had the lowest orders**, indicating varying performance across marketing channels.  
+
+
+
+
+
+
+
+
+Observations 
 - The **line chart showed fluctuations in revenue over time**, with a significant peak around mid-February, followed by a sharp decline.  
+
+
+
+
+
+
+
+
+
+
+Observations 
 
 ## Key Insights  
 - **Campaigns like "Banner Partner" achieved the highest impressions**, indicating strong visibility and reach, while campaigns like **"Facebook Retargeting" and "YouTube Blogger" had significantly lower impressions**, suggesting limited reach.  
