@@ -39,7 +39,7 @@ Various visualizations were created to analyze the campaign data effectively:
 
  ![](images/Screenshot%202025-01-25%20175422.png)
  
- Observations  
+ Observation 
 - **The "Banner_Partner" campaign generated significantly more impressions** compared to other campaigns, indicating that it had the highest reach and visibility. This suggests that banner ads were effective in gaining audience exposure.  
 
 
@@ -50,7 +50,7 @@ Various visualizations were created to analyze the campaign data effectively:
 
 ![](images/Screenshot%202025-01-25%20175505.png)
 
-Observations 
+Observation
 - **"Banner_Partner" and "Facebook_tier2" had the highest marketing spend**, suggesting they were prioritized in the overall strategy.  
 
 
@@ -59,7 +59,7 @@ Observations
 
 
 ![](images/Screenshot%202025-01-25%20175535.png)
-Observations 
+Observation
 - The **"Influencer" and "Social" categories generated the highest total orders**, while the **"Search" category had the lowest orders**, indicating varying performance across marketing channels.  
 
 
@@ -69,7 +69,7 @@ Observations
 
 
 ![](images/Screenshot%202025-01-25%20175602.png)
-Observations 
+Observation 
 - The **line chart showed fluctuations in revenue over time**, with a significant peak around mid-February, followed by a sharp decline.  
 
 
@@ -81,7 +81,9 @@ Observations
 
 
 ![](images/Screenshot%202025-01-29%20161558.png)
-Observations 
+Observation
+The **line chart reveals significant fluctuations in market spending over time**, indicating that budget allocation varied across different days. Certain days saw notably higher expenditures, suggesting strategic investment in high-impact periods, while other days had lower spending, possibly due to budget constraints or lower expected returns.
+
 
 ## Key Insights  
 - **Campaigns like "Banner Partner" achieved the highest impressions**, indicating strong visibility and reach, while campaigns like **"Facebook Retargeting" and "YouTube Blogger" had significantly lower impressions**, suggesting limited reach.  
