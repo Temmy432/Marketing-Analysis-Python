@@ -37,7 +37,6 @@ Various visualizations were created to analyze the campaign data effectively:
 
 
 
- 
  ![](images/Screenshot%202025-01-25%20175422.png)
  
  Observations  
@@ -49,7 +48,7 @@ Various visualizations were created to analyze the campaign data effectively:
 
 
 
-
+![](images/Screenshot%202025-01-25%20175505.png)
 
 Observations 
 - **"Banner_Partner" and "Facebook_tier2" had the highest marketing spend**, suggesting they were prioritized in the overall strategy.  
@@ -59,8 +58,7 @@ Observations
 
 
 
-
-
+![](images/Screenshot%202025-01-25%20175535.png)
 Observations 
 - The **"Influencer" and "Social" categories generated the highest total orders**, while the **"Search" category had the lowest orders**, indicating varying performance across marketing channels.  
 
@@ -70,7 +68,7 @@ Observations
 
 
 
-
+![](images/Screenshot%202025-01-25%20175602.png)
 Observations 
 - The **line chart showed fluctuations in revenue over time**, with a significant peak around mid-February, followed by a sharp decline.  
 
@@ -82,7 +80,7 @@ Observations
 
 
 
-
+![](images/Screenshot%202025-01-29%20161558.png)
 Observations 
 
 ## Key Insights  
