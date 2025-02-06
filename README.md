@@ -16,7 +16,7 @@ The dataset consists of **308 rows and 11 columns**, capturing key marketing cam
 - **Impressions**: Total visibility  
 - **Orders**: Purchases made  
 - **Revenue**: Income generated  
-- **Category**: Campaign/product types  
+- **Category**: Campaign types  
 - **Date**: Campaign execution date  
 - **Marketing Spend**: Amount spent  
 
